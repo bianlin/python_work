@@ -1,2 +1,2 @@
 # python_work
-学习python
+学习python3
